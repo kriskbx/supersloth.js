@@ -1,0 +1,22 @@
+{
+  "name": "supersloth.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/kriskbx/supersloth.js",
+  "authors": [
+    "kriskbx"
+  ],
+  "description": "insert an awesome supersloth into your website",
+  "keywords": [
+    "sloth",
+    "super",
+    "awesome"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

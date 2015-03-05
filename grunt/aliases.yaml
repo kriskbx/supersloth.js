@@ -1,0 +1,10 @@
+default:
+  - clean:build
+  - autoprefixer:main
+  - imagemin:main
+  - dataUri:main
+  - cssmin:main
+  - concat:main
+  - uglify:main
+  - clean:build
+  - copy:totest
