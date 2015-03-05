@@ -4,7 +4,7 @@
 
 ## Getting started
 
-Download the library with bower, npm, git or als a zip file [here](https://github.com/kriskbx/supersloth.js/releases):
+Download the library with bower, npm, git or as a zip file [here](https://github.com/kriskbx/supersloth.js/releases):
 
 ```shell
 bower install supersloth.js
@@ -29,6 +29,11 @@ Copy and paste this code right before the body tag of your website, make sure to
 Run this to get the slothy awesomeness: `superslothjs.start();`
 
 Aaaaand, that's it.
+
+## Coming soon
+
+* Mobile optimizations
+* Mega awesome sounds
 
 ## License
 
