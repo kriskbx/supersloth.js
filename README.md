@@ -16,7 +16,7 @@ npm install supersloth.js
 
 ```shell
 git clone https://github.com/kriskbx/supersloth.js.git
-``
+```
 
 ## Integrate it
 
@@ -25,6 +25,8 @@ Copy and paste this code right before the body tag of your website, make sure to
 ```html
 <script type="text/javascript" src="supersloth.js"></script>
 ```
+
+Run this to get the slothy awesomeness: `superslothjs.start();`
 
 Aaaaand, that's it.
 
