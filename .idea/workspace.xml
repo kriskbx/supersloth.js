@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c162e92-77ed-4c84-8c50-b7495626ef59" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/scripts/b6c3df09.main.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/styles/main.scss" afterPath="$PROJECT_DIR$/app/styles/main.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="supersloth.js.iws" />
@@ -31,11 +32,11 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4373777" vertical-offset="1968" max-vertical-offset="3910">
-              <caret line="105" column="34" selection-start-line="105" selection-start-column="34" selection-end-line="105" selection-end-column="34" />
+            <state vertical-scroll-proportion="0.16731898" vertical-offset="3164" max-vertical-offset="4209">
+              <caret line="145" column="26" selection-start-line="145" selection-start-column="26" selection-end-line="145" selection-end-column="26" />
               <folding>
-                <marker date="1425559329000" expanded="true" signature="628:781" placeholder="..." />
-                <marker date="1425559329000" expanded="true" signature="721:749" placeholder="..." />
+                <marker date="1425559612000" expanded="true" signature="628:781" placeholder="..." />
+                <marker date="1425559612000" expanded="true" signature="721:749" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -276,8 +277,8 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="621" max-vertical-offset="3519">
           <caret line="60" column="38" selection-start-line="60" selection-start-column="38" selection-end-line="60" selection-end-column="38" />
           <folding>
-            <marker date="1425559329000" expanded="true" signature="628:781" placeholder="..." />
-            <marker date="1425559329000" expanded="true" signature="721:749" placeholder="..." />
+            <marker date="1425559612000" expanded="true" signature="628:781" placeholder="..." />
+            <marker date="1425559612000" expanded="true" signature="721:749" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -346,11 +347,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4373777" vertical-offset="1968" max-vertical-offset="3910">
-          <caret line="105" column="34" selection-start-line="105" selection-start-column="34" selection-end-line="105" selection-end-column="34" />
+        <state vertical-scroll-proportion="0.16731898" vertical-offset="3164" max-vertical-offset="4209">
+          <caret line="145" column="26" selection-start-line="145" selection-start-column="26" selection-end-line="145" selection-end-column="26" />
           <folding>
-            <marker date="1425559329000" expanded="true" signature="628:781" placeholder="..." />
-            <marker date="1425559329000" expanded="true" signature="721:749" placeholder="..." />
+            <marker date="1425559612000" expanded="true" signature="628:781" placeholder="..." />
+            <marker date="1425559612000" expanded="true" signature="721:749" placeholder="..." />
           </folding>
         </state>
       </provider>
