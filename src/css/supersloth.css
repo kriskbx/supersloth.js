@@ -4,8 +4,10 @@
  * Licensed under the MIT license
  */
 
-body.supersloth {
+body.supersloth, html.supersloth {
     overflow: hidden !important;
+    max-width: 100% !important;
+    max-height: 100% !important;
 }
 
 #supersloth {

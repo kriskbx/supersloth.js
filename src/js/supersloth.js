@@ -26,7 +26,9 @@ SUPERSLOTH.prototype.prepare = function () {
 
 SUPERSLOTH.prototype.start = function () {
     var body = document.getElementsByTagName('body')[0];
+    var html = document.getElementsByTagName('html')[0];
     body.className = body.className + ' supersloth';
+    html.className = html.className + ' supersloth';
     document.getElementById('superheadline').className = 'a';
     document.getElementById('supersubline').className = 'a';
     document.getElementById('superstripescontainer').className = 'a';
@@ -36,7 +38,10 @@ SUPERSLOTH.prototype.start = function () {
         document.getElementById('supersubline').className = '';
         document.getElementById('superstripescontainer').className = '';
         document.getElementById('superslothy').className = '';
-        body.className = body.className.replace(' supersloth', '');
+        setTimeout(function () {
+            body.className = body.className.replace(' supersloth', '');
+            html.className = html.className.replace(' supersloth', '');
+        }, 40);
     }, 3000);
 }
 
