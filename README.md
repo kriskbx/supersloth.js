@@ -34,6 +34,7 @@ Aaaaand, that's it.
 
 * Mobile optimizations
 * Mega awesome sounds
+* Test it on other browsers than Firefox (too lazy atm. #slothstyle)
 
 ## License
 
